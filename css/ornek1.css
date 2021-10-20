@@ -1,0 +1,19 @@
+p{
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 54px;
+}
+.text-red{
+    color: red;
+    font-size: 26px;
+    font-family: cursive;
+}
+.h-green{
+    color: green;
+    font-size: 14px;
+    font-family: fantasy;
+}
+#main-title{
+    color: lightseagreen;
+    font-size: 60px;
+}

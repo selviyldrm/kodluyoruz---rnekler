@@ -1,0 +1,30 @@
+
+a{
+    color:brown;
+    font-size: 34px;
+    font-family: monospace;
+  
+}
+
+p{
+    color: coral;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.gezi{
+    color: blue;
+    background-color:khaki;
+    font-size: medium;
+    font-family: serif;
+    border: 4pt outset gold;
+}
+img{
+    margin-left:600px;
+}
+.baslıklar{
+color: coral;
+font-size: 50px;
+border: 3px solid gray;
+background-color: rgb(195, 233, 195);
+text-align: center;
+}
